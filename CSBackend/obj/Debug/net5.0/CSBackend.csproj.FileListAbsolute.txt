@@ -1,0 +1,16 @@
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.csproj.AssemblyReference.cache
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.AssemblyInfoInputs.cache
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.AssemblyInfo.cs
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.csproj.CoreCompileInputs.cache
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.exe
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.deps.json
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.runtimeconfig.json
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.runtimeconfig.dev.json
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.dll
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\ref\CSBackend.dll
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\bin\Debug\net5.0\CSBackend.pdb
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.dll
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\ref\CSBackend.dll
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.pdb
+C:\Programming\CI\Semesterprojekt\CSBackend\CSBackend\obj\Debug\net5.0\CSBackend.genruntimeconfig.cache
